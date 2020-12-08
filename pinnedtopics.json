@@ -1,4 +1,4 @@
-{ "forums/\(identifier)/topics?pinned=\(isPinned)"
+{
    "topics":[
       {
          "id":1,
