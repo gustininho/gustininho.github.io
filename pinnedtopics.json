@@ -9,7 +9,15 @@
          "is_author":false,
          "is_saved":false,
          "first_post":{
-            "message":"Today I had a..."
+            "message":"Today I had a...",
+             "photos":[
+               {
+                  "url":"https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+               },
+               {
+                  "url":"https://i.insider.com/5d24d6b921a861093e71fef3?width=1800&format=jpeg&auto=webp"
+               }
+            ]
          },
          "last_post":{
             "created_at":"2020-10-23T18:25:43.511Z",
